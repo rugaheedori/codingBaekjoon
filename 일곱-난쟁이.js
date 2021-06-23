@@ -13,4 +13,3 @@ for (let i=0; i<8; i++) {
 }
 result.sort((a, b) => a - b);
 for(let i=0; i<7; i++) console.log(result[i]);
-//test
